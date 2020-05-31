@@ -1,3 +1,3 @@
-# Test Repo
+# Demo Repo
 
-Testing Git repo from local workstation
+Testing Git and its functionality from local workstation.
